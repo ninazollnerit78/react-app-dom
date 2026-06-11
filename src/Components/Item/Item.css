@@ -1,0 +1,42 @@
+.item {
+    height: 400px;
+    cursor: pointer;
+    padding: 0 5px;
+}
+
+.item:hover {
+    transform: scale(1.1);
+}
+
+.item img {
+    height: 250px;
+}
+
+.item .opis {
+    margin-top: 20px;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.item .opis h4 {
+    font-size: 20px;
+    font-weight: 500;
+    color: #593A27;
+    width: 70%;
+}
+
+.item .opis .follow {
+    font-size: 13px;
+    margin-left: auto;
+}
+
+.item p {
+    font-size: 22px;
+    font-weight: 600;
+    color: #898C26;
+}
+
+.icon {
+    margin-right: 30px;
+}

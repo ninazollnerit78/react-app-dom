@@ -1,0 +1,22 @@
+.shop-category {
+    padding-top: 100px;}
+
+.shop-category h1 {
+    font-size: 50px;
+    letter-spacing: 3px;
+    font-weight: 600;
+    color: #593A27;
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.shop-category .shopcategory-product {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.shop-category .shopcategory-product .item {
+    width: 22%;
+}

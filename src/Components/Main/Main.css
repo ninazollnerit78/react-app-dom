@@ -1,0 +1,65 @@
+.oglasi .oglasi-naslov {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.oglasi .oglasi-naslov {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+.oglasi .oglasi-naslov h3 {
+    margin-right: 300px;
+    font-size: 35px;
+    color: #593A27;
+    font-weight: 500;
+}
+
+.oglasi .oglasi-naslov .btn-white {
+    border-radius: 20px;
+}
+
+.oglasi .oglasi-cards {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.oglasi .oglasi-cards .item {
+    width: 22%;
+}
+
+.oglasi .oglasi-cards .item img {
+    margin-right: 30px;
+}
+
+.kategorije h4{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    text-align: center;
+    font-size: 35px;
+    color: #593A27;
+    font-weight: 500;
+}
+
+.kategorije .dugmad {
+    display: flex;
+    justify-content: space-between;
+}
+
+.kategorije .dugmad:first-of-type {
+    margin-bottom: 30px;
+}
+
+.kategorije .dugmad .btn-kategorije {
+    width: 23%;
+    padding: 10px 0;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+.kategorije .dugmad .btn-kategorije a {
+    text-decoration: none;
+    color: white;
+}

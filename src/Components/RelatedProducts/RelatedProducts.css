@@ -1,0 +1,32 @@
+.relatedproducts {
+    padding-top: 100px;
+}
+
+.relatedproducts .naslov {
+    display:  flex;
+    align-items: center;
+    justify-content: end;
+    padding-bottom: 60px;
+}
+
+.relatedproducts .naslov h2 {
+    margin-right: 240px;
+    font-size: 35px;
+    color: #593A27;
+    font-weight: 500;
+}
+
+.relatedproducts .naslov .btn-white {
+    border-radius: 20px;
+}
+
+.relatedproducts-items {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.relatedproducts-items .item {
+    width: 22%;
+}

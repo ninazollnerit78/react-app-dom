@@ -1,0 +1,21 @@
+.hero {
+    background-image: url('../Assets/hero.png');
+    height: 800px;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero .container h1 {
+    font-size: 66px;
+    font-weight: 400;
+    text-align: left;
+    width: 40%;
+    padding-top: 55px;
+    padding-left: 100px;
+    color: #593A27;
+}
+
+.hero .container h1 span {
+    font-weight: 700;
+}

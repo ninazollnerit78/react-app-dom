@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+.container {
+  width: 1200px;
+  margin: auto;
+  align-items: center;
+}
+
+.btn-green {
+  background-color: #898C26;
+  color: white;
+  padding: 8px 30px;
+  border: 1px solid #898C26;
+  font-size: 18px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.btn-green:hover {
+  background-color: white;
+  color: #898C26;
+  border: 1px solid #898C26;
+  transition: 0.5s ease;
+}
+
+.btn-white {
+  color: #898C26;
+  padding: 8px 30px;
+  background-color: white;
+  border: 1px solid #898C26;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.btn-white:hover {
+  background-color: #898C26;
+  color: white;
+  border: 1ps solid white;
+  transition: 0.5s ease;
+}
+
+.heart-icon {
+  font-size: 40px;
+  color: white;
+  cursor: pointer;
+}
+
+.heart-icon path {
+  stroke: #593A27;
+  stroke-width: 18px;
+}
+
+.follow {
+  color: #898C26;
+  padding: 8px 10px;
+  background-color: white;
+  border: 1px solid #898C26;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.follow:hover {
+  background-color: #898C26;
+  color: white;
+  border: 1ps solid white;
+  transition: 0.5s ease;
+}

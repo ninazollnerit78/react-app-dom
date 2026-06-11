@@ -1,0 +1,53 @@
+.display {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.display img {
+    width: 50%;
+}
+
+.display .informacije {
+    width: 45%;
+    color: #593A27;
+}
+
+.display .informacije h3 {
+    font-size: 35px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+.display .informacije .cena {
+    color: #898C26;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.display .dugmad {
+    margin: 40px 0;
+    display: flex;
+    align-items: center;
+}
+
+.display .dugmad img {
+    width: 50px;
+    height: 45px;
+    margin-left: 20px;
+}
+
+.display .dugmad .btn-green {
+    font-size: 20px;
+    padding: 15px 35px;
+}
+
+.display .dugmad .follow {
+    padding: 18px 15px;
+    margin-left: 30px;
+}
+
+.display p{
+    font-size: 18px;
+    font-weight: 500;
+}

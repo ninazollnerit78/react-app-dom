@@ -1,0 +1,74 @@
+.loginsignup {
+    margin: 100px 0;
+}
+
+.loginsignup .ram {
+    border: 2px solid #898C26;
+    border-radius: 30px;
+    text-align: center;
+    padding: 80px 0;
+}
+
+.loginsignup .ram h2 {
+    color: #593A27;
+    font-size: 38px;
+    font-weight: 600;
+}
+
+.loginsignup .ram .forma {
+    margin-top: 35px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.loginsignup .ram .forma input {
+    flex-basis: 55%;
+    padding: 10px 10px;
+    margin: 15px 0;
+    border: 2px solid #898C26;
+    border-radius: 10px;
+    color: #898C26;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.loginsignup .ram .forma input::placeholder {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.loginsignup .ram .forma input:focus {
+    outline: none;
+}
+
+.loginsignup .ram .btn-green {
+    border-radius: 15px;
+    font-size: 22px;
+    padding: 10px 40px;
+}
+
+.loginsignup .ram p {
+    color: #593A27;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+.loginsignup .ram p span {
+    color: #898C26;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.loginsignup .ram .terms-of-use {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.loginsignup .ram .terms-of-use input {
+    margin-bottom: 5px;
+    margin-right: 10px;
+}
